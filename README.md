@@ -18,7 +18,13 @@ En el buscador trobem a dalt de tot un filtratge ràpid, si hi han moltes opcion
 ![home+busc](home+busc.jpeg)
 
 
+## FILTRADOR
 
+Després de clicar al botó de filtratge en la pàgina del buscador, trobarem una pàgina que veurem diferents filtres per filtrar com ara: Ordenar per novetats i preu, tipologia, color i rang de preu. A sota de tot veurem el botó de "Veure resultats". A dalt de tot de la pàgina, a l'esquerra trobem el botó per sortir del filtrador i a la banda dreta per netejar els filtres. 
+
+## CISTELLA
+
+En la pàgina de la cistella trobem un botó per poder afegir més productes. Per cada profucte es veurà la seva fotografia, el preu i el seu nom. A més a més per cada producte, tindrem un botó per poder eliminar-lo de la cistella. A sota trobem el preu total y un botó per passar a la pàgina de pagament. A sota del tot trobem, també, el menu. 
 
 ![filtrador+cistella](filtrador+cistella.jpeg)
 
