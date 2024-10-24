@@ -7,4 +7,5 @@ _Angel Ivanov_
 
 # per la tasca de Wireframe
 
-hola
+![filtrador+cistella](filtrador+cistella.jpeg)
+
