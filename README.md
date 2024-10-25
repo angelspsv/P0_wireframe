@@ -36,6 +36,23 @@ La pàgina dedicada al pagament de la cistella tindrà el logo, accés al menú,
 
 
 
+- _Wireframe 5: Autenticació i Registre d'Usuaris_
+![Formulari de registre](IMG_7907.jpg)
+En la part central de la pàgina es trobarà el formulari de registre amb els mínims i necessaris camps com: nom, correu electrònic, contrasenya i el botó de 'aceptar'.
+
+
+
+![Imatge inici de sessio](IMG_7906.jpg)
+A la part central de la pàgina estarà situat el formulari d'inici de sessió amb els camps de correu i contrasenya. Hi haurà dos botons, el d'entrar i de recuperar la contrasenya. En premiar el botó de recuperar contrasenya s'enviarà un missatge al correu con la nova contrasenya.
+
+
+
+- _Wireframe 6: Blog i Notícies_
+![Imatge del blog](Scan0006.jpg)
+La pàgina està dedicada al blog que mostrarà articles de la temàtica de la web: les guitarres. Mostrarà els articles en la part central de la web i un de baix de l'altra. Inicialment, els articles es veuran en format resumit amb una petita imatge i fent-hi clic es podrà accedir.
+
+
+
 
 
 ------------------------Leyenda MarkDown------------------- lista no numerada: +/*/- Elemento 1 encabezado: ### Titulo 1 negrita: /texto en negrita/ cursiva: /texto cursiva/ enlace: Visita Google imagen desde archivo: ![Texto alternativo](URL de la imagen)
