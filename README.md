@@ -39,7 +39,7 @@ A l'hora de fer el pagament, es podrà entrar desde la cistella i clicant el bot
 
 ![noticies+pagar](noticies+pagar.jpeg)
 
-## PRODCUTE
+## PRODUCTE
 
 Després de clicar sobre un producte en el buscador de productes podrem veure'l mes a fons, mes imatges, mes descripció. Tenim un botó que podem veure les resenyes del producte. Desde aquesta pàgina també podem afegir els productes a la cistella o donar-li's m'agreada. 
 
