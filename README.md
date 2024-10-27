@@ -28,3 +28,23 @@ En la pàgina de la cistella trobem un botó per poder afegir més productes. Pe
 
 ![filtrador+cistella](filtrador+cistella.jpeg)
 
+
+## NOTICIES
+
+En l'apartat de noticies , sortirà cada noticia en un rectangle on sortirà el titol de la noticia i un link per entrar. Es fa un scroll cap abaix per seguir veient les noticies. 
+
+## PAGAR
+
+A l'hora de fer el pagament, es podrà entrar desde la cistella i clicant el botó de "PAGAR". En aquesta pàgina veurem la quantitat a pagar y uns inputs per introduir el numero de targeta, el CVV, la data de caducitat y el nom del titular de la targeta. També ofereix altres opcions de pagament com ara Bizum, PayPal o Revolute. 
+
+![noticies+pagar](noticies+pagar.jpeg)
+
+## PRODCUTE
+
+Després de clicar sobre un producte en el buscador de productes podrem veure'l mes a fons, mes imatges, mes descripció. Tenim un botó que podem veure les resenyes del producte. Desde aquesta pàgina també podem afegir els productes a la cistella o donar-li's m'agreada. 
+
+## INICIAR SESSIÓ
+
+Quan ens trobem en l'apartat més a la dreta, podem veure que ens podem iniciar sessió. Demana el correu i la contrasenya. Tenim un botó per poder recuperar la contrasenya. Tenim un botó per Iniciar Sessió y un més abaix per registrar-se si ho estem. 
+
+![prod+inicises](prod+inicises.jpeg)
