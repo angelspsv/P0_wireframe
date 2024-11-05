@@ -25,4 +25,4 @@ Són 9 taules que formen dos grups connectats per la novena taula Acceso.
 + La relació entre Calle i Parcela és de 1:N, perquè un carrer pot tenir moltes parcel•les, però una parcel•la només pot estar a un carrer en concret.
 
 __Imatge del diagrama de les taules__
-![Imatge del diagrama de les taules]()
+![Imatge del diagrama de les taules](diagrama_tablas.jpg)
