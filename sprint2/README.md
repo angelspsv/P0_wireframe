@@ -1,3 +1,8 @@
+## Diseño de nuestra base de datos
+![Esquema de la bbdd con sus tablas y relaciones](bbdd_app.jpg)
+
+
+
 ## Guía de estilos // Parte web
 
 ### 1. Paleta de colores
