@@ -2,6 +2,8 @@
 ![Esquema de la bbdd con sus tablas y relaciones](bbdd_app.jpg)
 
 
+## Explicación más detallada del diseño y pruebas de la base de datos en el siguiente [enlace](https://docs.google.com/document/d/1_NFfdygHnRxIi3O4fidTYD4FJyOFoih3-kulHv4NVEA/edit?usp=sharing)
+
 
 ## Guía de estilos // Parte web
 
